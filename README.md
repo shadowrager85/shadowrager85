@@ -12,8 +12,8 @@
 - **Project 3**: [Project 3 Name](link-to-project) - Brief description of what it does.
 
 ## 📫 How to Reach Me 📫
-- **Email**: [p](mailto:your-email@example.com)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **Email**: [princmartins2111@gmail.com](mailto:princmartins2111@gmail.com)
+- **GitHub**: [github.com/shadowrager85](https://github.com/shadowrager85)
 
 ## 🌟 My Skills 🌟
 - **Languages**: HTML, CSS, JavaScript
