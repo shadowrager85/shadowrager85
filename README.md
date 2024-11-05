@@ -8,7 +8,7 @@
 
 ## 🚀 My Projects 🚀
 - **Project 1**: [Project 1 Name](https://github.com/shadowrager85/super-robot) - first html,css,js website.
-- **Project 2**: [Project 2 Name](link-to-project) - Poritfolio website.
+- **Project 2**: [Project 2 Name](https://github.com/shadowrager85/Portfolio.git) - Poritfolio website.
 - **Project 3**: [Project 3 Name](link-to-project) - Brief description of what it does.
 
 ## 📫 How to Reach Me 📫
